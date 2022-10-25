@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Aqui está mi cambio
+=======
+ñlkajsddkljalkskljafkljasf
+
+Hola Luis Sorry ando apuradita
+>>>>>>> c6715844c2a8e67ff31b0a514ca874183d974648
